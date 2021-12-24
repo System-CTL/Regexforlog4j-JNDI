@@ -10,7 +10,7 @@ Yup log4j, being a SOC analyst my core skill not comprises on writting regex but
 - Likewise, search this regex against every UTF(payload). 
 - This is just for detection, Yup i have idea about TTP's.
 
-# My Approach (1.1)  
+# My Approach (1.1) - New  
 	[^$][jndi]{4}?(:|\/)|[^$][dns]{3}?(:|\/)|[^$][ldap]{4}?(:)|[dns]{3}?(%)|[A-Za-z0-9+\/=]{80}|[^${$]?[{:-]{2}?(j|n|d|i)|[rmiRMI]{3}?(:|\/)|[^$][IIOPiiop]{4}?(:|\/)|[^$][jnd]{3}?(:|\/|%)|[a-zA-Z0-9+\/=]?(base64|Base64)|[^${$]?[{:-]{1}?(j|n|d|i|7|b|p|1)|(0x)?[0-9%a-f]{20}
 ![image](https://user-images.githubusercontent.com/70237548/147309743-14ac1511-bd62-42d2-b59c-3e17e01141f5.png)
 
