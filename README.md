@@ -1,0 +1,2 @@
+# Regexforlog4j-JNDI
+SOC analyst work day and night for protecting the organization but sometimes we don't have the mechanism for protecing against particular threat like in life in some moment we were helpless but sun shine after storm. Yup log4j, i'm not a pro in wrtting regex but have some hands-on knowledge. For now, i have seen people wrtting long regex for SIEM solution and dumb guy like thinking how you did that but long is not always right ooh sorry, Means optimal solution could be achieved in matter of few words.  
