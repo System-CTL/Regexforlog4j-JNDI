@@ -1,5 +1,5 @@
 # Regexforlog4j-JNDI
-SOC analyst work day and night for protecting the organization but sometimes we don't have the mechanism for protecing against particular threat like in some moment of life we were helpless but After the Storm the Sun Will Shine Again.
+SOC guys working day and night for protecting the organization but sometimes we don't have the mechanism for protecing against particular threat like in some moment of life we were helpless but After the Storm the Sun Will Shine Again.
 Yup log4j, being a SOC analyst my core skill not comprises on writting regex but have some hands-on knowledge about it. If we talk about current scenerio, the vulnerability exploited massively and attempts are made in each day and good news is the infosec people wrtting long long regex for SIEM solutions and dumb guy be like how you did that but long is not always right ooh sorry, Means optimal solution could be achieved in matter of few lines.I have came to know that everyone is so supportive in cyber community, so hats off to everyone for doing their best for coummunity.    
 
 # My Approach 
