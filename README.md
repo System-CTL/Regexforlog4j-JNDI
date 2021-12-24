@@ -5,13 +5,17 @@ SOC analyst work day and night for protecting the organization but sometimes we 
 	[^$][jndi]{4}?(:)|[^$][dns]{3}?(:|\/)|[^$][ldap]{4}?(:)|[dns]{3}?(%)|[A-Za-z0-9+\/=]{80}|[^${$]?[{:-]{2}?(j|n|d|i)|[rmiRMI]{3}?(:|\/)|[^$][IIOPiiop]{4}?(:|\/)
 
 # For SIEM
-- Right now, i have tested on IBM Qradar
+- Right now, tested on IBM Qradar.
 
+# Use Case
+- Early Detection is the key, Work had been done for detection on payload.
+- Likewise, search this regex against every UTF(payload). 
+- This is just for detection, Yup i have idea about TTP's.
+ 
 # Screenshot
-
 ![image](https://user-images.githubusercontent.com/70237548/147303519-86aa8beb-9055-42b5-9a54-4679438b7871.png)
 
-Difficult to detect!
+# Difficult to detect!
 ![image](https://user-images.githubusercontent.com/70237548/147303622-d107bfb8-5d85-44c1-8140-6b3eb0ee1f77.png)
 
 
