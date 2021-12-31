@@ -1,8 +1,8 @@
 # Regexforlog4j-JNDI
 Log4Shell is the name given to a vulnerability affecting Log4Shell (CVE-2021-44228). The vulnerability is associated with the Log4j JNDI lookup feature, which on versions <= 2.17.1, by default creates objects of the class returned by the lookup operation. 
 
-SOC guys working day and night for protecting the organization but sometimes we don't have the mechanism for protecing against particular threat like in some moment of life we were helpless but After the Storm the Sun Will Shine Again.
-Yup log4j, being a SOC analyst my core skill not comprises on writting regex but have some hands-on knowledge about it. If we talk about current scenerio, the vulnerability exploited massively and attempts are made in each day and good news is the infosec people wrtting long long regex for SIEM solutions and dumb guy be like how you did that but long is not always right ooh sorry, Means optimal solution could be achieved in matter of few lines.I have came to know that everyone is so supportive in cyber community, so hats off to everyone for doing their best for coummunity.    
+SOC guys work day and night for protecting the organization but sometimes we don't have the mechanism for protecting against a particular threat like, in some moments of life we were helpless but remember After the Storm the Sun Will Shine Again.
+Yup log4j, being a SOC analyst my core skill is not comprised of writing regex but having some hands-on knowledge about it. If we talk about the current scenario, the vulnerability is exploited massively and attempts are made each day and the good news is the infosec people writing long regex for SIEM solutions and dumb guy be like how you did that but long is not always right ooh sorry, Means optimal solution could be achieved in a matter of few lines. I have come to know that everyone is so supportive in the cyber community, so hats off to everyone for doing their best for the community.    
 
 # For SIEM
 - Right now, tested on IBM Qradar.
